@@ -289,14 +289,14 @@ background-color: #E8D8C4;
 
   <div class="secundario">
     <h2>MENU CABLE E INTERNET</h2>
-    <a href="../registrar/menuregistrar.php">MENU REGISTROS</a>
-    <a href="../consultar/menuconsultar.php">MENU CONSULTAS</a>
-    <a href="../eliminar/menueliminar.php">MENU ELIMINAR</a>
-    <a href="../modificar/menumodificar.php">MENU MODIFICAR</a>
-    <a href="../actualizar/menuactualizar.php">MENU ACTUALIZAR</a>
-    <a href="../reportes/menureportes.php">MENU REPORTES</a>
-    <a href="../listados/menulistados.php">MENU LISTADOS</a>
-    <a href="../menu/login2.php">MENU CLIENTES</a>
+    <a href="menuregistrar.php">MENU REGISTROS</a>
+    <a href="menuconsultar.php">MENU CONSULTAS</a>
+    <a href="menueliminar.php">MENU ELIMINAR</a>
+    <a href="menumodificar.php">MENU MODIFICAR</a>
+    <a href="menuactualizar.php">MENU ACTUALIZAR</a>
+    <a href="menureportes.php">MENU REPORTES</a>
+    <a href="menulistados.php">MENU LISTADOS</a>
+    <a href="login2.php">MENU CLIENTES</a>
   </div>
 
   <div class="contenido">
@@ -317,15 +317,15 @@ Disfruta de contenido de calidad, conexión estable y atención personalizada, p
 
     <div class="cuadros">
       <div class="cuadro" onclick="mostrarInformacion('medicamentos1')">
-        <img src="../img/p.png" alt="imagen 1">
+        <img src="p.png" alt="imagen 1">
         <h4>¿Qué es el servicio de cable?</h4>
       </div>
       <div class="cuadro" onclick="mostrarInformacion('medicamentos2')">
-        <img src="../img/19.png" alt="imagen 2">
+        <img src="19.png" alt="imagen 2">
         <h4>¿Qué es el servicio de internet?</h4>
       </div>
       <div class="cuadro" onclick="mostrarInformacion('medicamentos3')">
-        <img src="../img/iconoo.png" alt="imagen 3">
+        <img src="iconoo.png" alt="imagen 3">
         <h4>Da click para más información...</h4>
       </div>
     </div>
