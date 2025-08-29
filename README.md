@@ -289,7 +289,7 @@ background-color: #E8D8C4;
 
   <div class="secundario">
     <h2>MENU CABLE E INTERNET</h2>
-    <a href="menuregistrar.php">MENU REGISTROS</a>
+    <a href="https://davidlicona000.github.io/Registrar/">MENU REGISTROS</a>
     <a href="menuconsultar.php">MENU CONSULTAS</a>
     <a href="menueliminar.php">MENU ELIMINAR</a>
     <a href="menumodificar.php">MENU MODIFICAR</a>
